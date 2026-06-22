@@ -1,0 +1,18 @@
+# AURIX Development Studio
+Debug/
+.ads/
+*.launch
+.cproject
+.project
+.settings/
+
+# Compiled output
+*.o
+*.elf
+*.map
+*.hex
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
